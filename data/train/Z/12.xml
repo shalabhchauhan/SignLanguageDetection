@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Z</folder>
+	<filename>12.jpg</filename>
+	<path>C:\Users\VARTUL\Desktop\SE_PROJECT\SignLanguageDetection\data\train\Z\12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>55</ymin>
+			<xmax>215</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>

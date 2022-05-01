@@ -1,0 +1,26 @@
+<annotation>
+	<folder>V</folder>
+	<filename>5.jpg</filename>
+	<path>C:\Users\VARTUL\Desktop\SE_PROJECT\SignLanguageDetection\data\train\V\5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>V</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>36</ymin>
+			<xmax>256</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>
