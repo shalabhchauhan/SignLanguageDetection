@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Q</folder>
+	<filename>2.jpg</filename>
+	<path>C:\Users\VARTUL\Desktop\SE_PROJECT\SignLanguageDetection\data\train\Q\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Q</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>2</ymin>
+			<xmax>224</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+</annotation>
