@@ -1,0 +1,26 @@
+<annotation>
+	<folder>B</folder>
+	<filename>17.jpg</filename>
+	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\B\17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>B</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>120</ymin>
+			<xmax>242</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
