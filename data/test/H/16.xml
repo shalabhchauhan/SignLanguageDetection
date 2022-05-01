@@ -1,7 +1,7 @@
 <annotation>
 	<folder>H</folder>
-	<filename>14.jpg</filename>
-	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\H\14.jpg</path>
+	<filename>16.jpg</filename>
+	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\H\16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>H</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
-			<ymin>81</ymin>
-			<xmax>290</xmax>
-			<ymax>395</ymax>
+			<xmin>1</xmin>
+			<ymin>47</ymin>
+			<xmax>300</xmax>
+			<ymax>400</ymax>
 		</bndbox>
 	</object>
 </annotation>
