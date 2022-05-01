@@ -1,0 +1,26 @@
+<annotation>
+	<folder>E</folder>
+	<filename>13.jpg</filename>
+	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\E\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>103</ymin>
+			<xmax>235</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>
