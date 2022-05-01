@@ -1,0 +1,26 @@
+<annotation>
+	<folder>A</folder>
+	<filename>3.jpg</filename>
+	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\A\3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>117</ymin>
+			<xmax>288</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

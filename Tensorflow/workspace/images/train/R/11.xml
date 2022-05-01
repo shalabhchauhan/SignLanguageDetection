@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\dell\OneDrive\Desktop\SE_Project\SignLanguageDetection\data\train\R\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2</ymin>
+			<xmax>192</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>
